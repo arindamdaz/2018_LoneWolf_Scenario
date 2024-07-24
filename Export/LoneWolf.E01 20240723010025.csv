@@ -1,0 +1,7 @@
+Name,ID,"Starting Sector","Length in Sectors",Description,Flags
+"vol1 (Unallocated: 0-2047)",1,0,2048,Unallocated,Unallocated
+"vol4 (Basic data partition: 2048-1023999)",4,2048,1021952,"Basic data partition",Allocated
+"vol5 (EFI system partition: 1024000-1226751)",5,1024000,202752,"EFI system partition",Allocated
+"vol6 (Microsoft reserved partition: 1226752-1259519)",6,1226752,32768,"Microsoft reserved partition",Allocated
+"vol7 (Basic data partition: 1259520-1000214527)",7,1259520,998955008,"Basic data partition",Allocated
+"vol8 (Unallocated: 1000214528-1000215215)",8,1000214528,688,Unallocated,Unallocated
